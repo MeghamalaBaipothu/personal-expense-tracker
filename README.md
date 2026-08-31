@@ -61,6 +61,10 @@ personal-expense-tracker/
 
 ![Summary](screenshots/summary.png)
 
+## 🎥 Live Demo
+
+🚀 **Try the application:** [Personal Expense Tracker](https://personal-expense-tracker-3dhpkyp9gzcqnz266tr9ur.streamlit.app/)
+
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
