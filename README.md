@@ -35,8 +35,7 @@ personal-expense-tracker/
 │   ├── add.png
 │   ├── home.png
 │   ├── summary.png
-│   ├── transactions.png
-│   └── .gitkeep
+│   └── transactions.png
 │
 ├── .gitignore
 ├── README.md
@@ -119,7 +118,7 @@ View Transactions
        ↓
 View Financial Summary
        ↓
-Analyze Expenses
+Category-wise Expense Analysis
 ```
 
 ## 💡 What I Learned
@@ -136,9 +135,9 @@ Through this project, I practiced:
 
 ## ⚠️ Current Limitations
 
-* Transaction data is stored during the application session.
-* Data is not currently stored in a permanent database.
-* Data may be lost when the application session is restarted.
+* Transaction data is stored only during the application session.
+* Data is not currently persisted in a database.
+* Transactions may be lost when the application session is restarted.
 
 ## 🚀 Future Enhancements
 
@@ -147,7 +146,6 @@ Through this project, I practiced:
 * Add monthly and yearly expense analysis
 * Add additional financial visualizations
 * Add CSV/Excel export functionality
-* Add data persistence across sessions
 * Deploy the application online
 
 ## 👩‍💻 Author
