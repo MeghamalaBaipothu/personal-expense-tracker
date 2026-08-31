@@ -150,7 +150,6 @@ Through this project, I practiced:
 * Add monthly and yearly expense analysis
 * Add additional financial visualizations
 * Add CSV/Excel export functionality
-* Deploy the application online
 
 ## 👩‍💻 Author
 
